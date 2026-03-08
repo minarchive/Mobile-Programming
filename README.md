@@ -1,2 +1,2 @@
 # Mobile-Programming
-Mobile Programming 2024 : O_to_I 
+Mobile Programming class 2024 : O_to_I 
